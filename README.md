@@ -25,3 +25,5 @@ npm start
 This will start a local development server and open the project in your browser. From there, you can start exploring the code and making modifications as needed.
 
 If you have any questions or need assistance getting set up, feel free to reach out for support.
+
+Live: https://beamish-lamington-d9dd33.netlify.app/

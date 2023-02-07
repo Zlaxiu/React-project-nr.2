@@ -1,28 +1,27 @@
-# co01e498b9e900c6d639f85f5
+# World's Best Places
 
-Quick start:
+This project is a simple React-based web application that displays information about the world's most interesting places. The information is obtained from a data table that is stored in a separate file called data.js.
 
+The project leverages the power of React's map function to iterate through the data in the data.js file and convert it into a series of props that are then passed to components for display on the web page.
+
+The application is built using modern React techniques and technologies, making it easy to maintain and scale as needed. Whether you're a seasoned React developer or just starting out, this project is a great way to learn how to work with dynamic data in a React application.
+
+Overall, this project is a great starting point for anyone interested in building interactive and informative web applications with React.
+
+## Technologies Used
+
+This project makes use of the following technologies:
+- ReactJS
+- JavaScript (ES6+)
+- HTML/CSS
+
+## Getting Started
+
+To get started with this project, you will need to clone the repository to your local machine. Then, run the following commands to install the necessary dependencies:
 ```
-$ yarn # npm install
-$ yarn build # npm run build
-````
-
-## Development
-
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
-
+npm install
+npm start
 ```
-$ yarn watch # npm run watch
-```
+This will start a local development server and open the project in your browser. From there, you can start exploring the code and making modifications as needed.
 
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+If you have any questions or need assistance getting set up, feel free to reach out for support.
